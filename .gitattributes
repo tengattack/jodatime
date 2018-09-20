@@ -1,0 +1,5 @@
+.git* text eol=lf
+*.go text eol=lf
+*.md text eol=lf
+*.yml text eol=lf
+LICENSE text eol=lf
